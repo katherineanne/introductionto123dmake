@@ -20,11 +20,11 @@ Once you select this option, the program will automatically slice your model int
 
 *Slice Direction -* Adjust the slice direction by dragging a small blue triangle around the object. Slices that are not structurally sound will be highlighted in blue so you can adjust your slices to a better angle. 
 
-*Modify Form - *This option will allow you to modify your form by making it hollow, making it thicker, or by shrinkwrapping it. This can help create a simpler version of your model, which makes it easier to print into into parts. 
+*Modify Form -*This option will allow you to modify your form by making it hollow, making it thicker, or by shrinkwrapping it. This can help create a simpler version of your model, which makes it easier to print into into parts. 
 
 *Assembly Steps* - Step by step assembly instructions. It can be hard to know the exact order of the parts once they have been printed, so this feature can be very helpful. 
 
-*Get Plans - *This will allow you to print your project, or export the print plans as an EPS, PDF, or DXF.
+*Get Plans -*This will allow you to print your project, or export the print plans as an EPS, PDF, or DXF.
 
 ![image alt text](image_2.png)
 
@@ -54,7 +54,7 @@ The folded panels option allows you to print your model onto paper, and then fol
 
 *Add/or remove seams* - this allows you to adjust how many folds you will need to do when assembling your paper model.
 
-*Joint Type *- adjust the kind of joint used or add perforations.
+*Joint Type*- adjust the kind of joint used or add perforations.
 
 ![image alt text](image_6.png)
 
